@@ -1,4 +1,4 @@
-$yellow:#f5bc04;
+$yellow:#16140f;
 
 @mixin border-radius($radius) {
 	-webkit-border-radius: $radius;
@@ -70,7 +70,7 @@ $yellow:#f5bc04;
 	&:focus, &:hover {
 		background: $yellow!important;
 		color: #fff!important;
-		padding-top: 12px!important;
+		padding-top: 16px!important;
 		padding-bottom: 15px!important;
 		padding-left: 20px!important;
 		padding-right: 20px!important;
@@ -80,7 +80,7 @@ $yellow:#f5bc04;
 }
 
 .bg-faded {
-    background-color: #f7f7f7;
+    background-color: #e7e5e5;
   }
 
 .mobile_logo_width {
